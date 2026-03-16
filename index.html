@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="300">
+  <title>Hearthweave Bridge Pulse</title>
+  <style>
+    :root {
+      --bg:     #0d0d14;
+      --panel:  #13131f;
+      --border: #2a2a3f;
+      --rune:   #7b68ee;
+      --gold:   #c9a84c;
+      --text:   #d0cce8;
+      --dim:    #6b6880;
+      --moon:   #a0c4ff;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Courier New', monospace;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 560px;
+      width: 100%;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .header .glyph {
+      font-size: 3rem;
+      color: var(--rune);
+      display: block;
+      margin-bottom: .5rem;
+    }
+    h1 {
+      font-size: 1rem;
+      letter-spacing: .3em;
+      text-transform: uppercase;
+      color: var(--dim);
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: .35rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .row:last-child { border-bottom: none; }
+    .label {
+      color: var(--dim);
+      font-size: .8rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      flex-shrink: 0;
+      margin-right: 1rem;
+    }
+    .value {
+      text-align: right;
+      color: var(--text);
+    }
+    .big-time {
+      text-align: center;
+      font-size: 2.5rem;
+      letter-spacing: .05em;
+      color: var(--gold);
+      padding: 1rem 0;
+    }
+    .rune-block {
+      text-align: center;
+      padding: .5rem 0;
+    }
+    .rune-glyph {
+      font-size: 2.5rem;
+      color: var(--rune);
+      display: block;
+    }
+    .rune-name {
+      font-size: 1.1rem;
+      color: var(--gold);
+      letter-spacing: .15em;
+    }
+    .rune-meaning {
+      font-size: .85rem;
+      color: var(--dim);
+      margin-top: .3rem;
+      font-style: italic;
+    }
+    .moon-block {
+      text-align: center;
+      padding: .5rem 0;
+    }
+    .moon-emoji { font-size: 2rem; }
+    .moon-phase { color: var(--moon); letter-spacing: .1em; }
+    .moon-age   { color: var(--dim); font-size: .8rem; margin-top: .2rem; }
+    .api-block {
+      background: #0a0a12;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1rem;
+      font-size: .8rem;
+      color: var(--dim);
+      word-break: break-all;
+    }
+    .api-url { color: var(--rune); }
+    .footer {
+      text-align: center;
+      margin-top: 1.5rem;
+      color: var(--dim);
+      font-size: .75rem;
+      letter-spacing: .1em;
+    }
+    .pulse-dot {
+      display: inline-block;
+      width: 6px; height: 6px;
+      background: var(--rune);
+      border-radius: 50%;
+      margin-right: .4rem;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: .3; transform: scale(.8); }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <span class="glyph">ᚱ</span>
+    <h1>Hearthweave Bridge Pulse</h1>
+  </div>
+
+  <div class="panel">
+    <div class="big-time">18:45:20</div>
+    <div class="row">
+      <span class="label">Date</span>
+      <span class="value">Monday, March 16, 2026</span>
+    </div>
+    <div class="row">
+      <span class="label">Timezone</span>
+      <span class="value">EDT  (-0400)</span>
+    </div>
+    <div class="row">
+      <span class="label">Unix</span>
+      <span class="value">1773701120</span>
+    </div>
+    <div class="row">
+      <span class="label">ISO 8601</span>
+      <span class="value">2026-03-16T18:45:20.358329-04:00</span>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="rune-block">
+      <span class="rune-glyph">ᚦ</span>
+      <div class="rune-name">Thurisaz</div>
+      <div class="rune-meaning">Thor's thorn, force, threshold</div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="moon-block">
+      <div class="moon-emoji">🌘</div>
+      <div class="moon-phase">Waning Crescent</div>
+      <div class="moon-age">27.8 days into cycle</div>
+    </div>
+  </div>
+
+  <div class="api-block">
+    <div>JSON endpoint:</div>
+    <div class="api-url">https://[your-username].github.io/bridge-pulse/pulse.json</div>
+  </div>
+
+  <div class="footer">
+    <span class="pulse-dot"></span>
+    updates every 5 minutes &nbsp;·&nbsp; auto-refreshes in 5 min
+  </div>
+
+</div>
+</body>
+</html>
