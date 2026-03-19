@@ -1,9 +1,9 @@
 {
-  "timestamp": "Thursday, March 19, 2026  02:09:10 EDT",
-  "iso": "2026-03-19T02:09:10.279809-04:00",
-  "unix": 1773900550,
+  "timestamp": "Thursday, March 19, 2026  03:13:34 EDT",
+  "iso": "2026-03-19T03:13:34.262098-04:00",
+  "unix": 1773904414,
   "date": "2026-03-19",
-  "time": "02:09:10",
+  "time": "03:13:34",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "New Moon",
     "emoji": "🌑",
-    "age_days": 0.59
+    "age_days": 0.63
   },
   "rune": {
     "name": "Kenaz",
