@@ -1,9 +1,9 @@
 {
-  "timestamp": "Friday, March 20, 2026  16:41:59 EDT",
-  "iso": "2026-03-20T16:41:59.555723-04:00",
-  "unix": 1774039319,
+  "timestamp": "Friday, March 20, 2026  17:04:01 EDT",
+  "iso": "2026-03-20T17:04:01.907764-04:00",
+  "unix": 1774040641,
   "date": "2026-03-20",
-  "time": "16:41:59",
+  "time": "17:04:01",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 2.19
+    "age_days": 2.21
   },
   "rune": {
     "name": "Gebo",
