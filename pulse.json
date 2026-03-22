@@ -1,23 +1,23 @@
 {
-  "timestamp": "Saturday, March 21, 2026  23:56:43 EDT",
-  "iso": "2026-03-21T23:56:43.122195-04:00",
-  "unix": 1774151803,
-  "date": "2026-03-21",
-  "time": "23:56:43",
+  "timestamp": "Sunday, March 22, 2026  01:19:07 EDT",
+  "iso": "2026-03-22T01:19:07.921240-04:00",
+  "unix": 1774156747,
+  "date": "2026-03-22",
+  "time": "01:19:07",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Saturday",
-  "day_of_year": 80,
+  "day_of_week": "Sunday",
+  "day_of_year": 81,
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 3.49
+    "age_days": 3.55
   },
   "rune": {
-    "name": "Wunjo",
-    "glyph": "ᚹ",
-    "meaning": "joy, harmony, the wish fulfilled"
+    "name": "Hagalaz",
+    "glyph": "ᚺ",
+    "meaning": "hail, disruption, necessary chaos"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
