@@ -1,9 +1,9 @@
 {
-  "timestamp": "Tuesday, March 24, 2026  12:44:59 EDT",
-  "iso": "2026-03-24T12:44:59.290961-04:00",
-  "unix": 1774370699,
+  "timestamp": "Tuesday, March 24, 2026  13:41:40 EDT",
+  "iso": "2026-03-24T13:41:40.496607-04:00",
+  "unix": 1774374100,
   "date": "2026-03-24",
-  "time": "12:44:59",
+  "time": "13:41:40",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 6.03
+    "age_days": 6.07
   },
   "rune": {
     "name": "Isa",
