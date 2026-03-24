@@ -1,23 +1,23 @@
 {
-  "timestamp": "Monday, March 23, 2026  22:10:47 EDT",
-  "iso": "2026-03-23T22:10:47.717615-04:00",
-  "unix": 1774318247,
-  "date": "2026-03-23",
-  "time": "22:10:47",
+  "timestamp": "Tuesday, March 24, 2026  00:26:48 EDT",
+  "iso": "2026-03-24T00:26:48.189933-04:00",
+  "unix": 1774326408,
+  "date": "2026-03-24",
+  "time": "00:26:48",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Monday",
-  "day_of_year": 82,
+  "day_of_week": "Tuesday",
+  "day_of_year": 83,
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 5.42
+    "age_days": 5.51
   },
   "rune": {
-    "name": "Nauthiz",
-    "glyph": "ᚾ",
-    "meaning": "need, constraint, forging through"
+    "name": "Isa",
+    "glyph": "ᛁ",
+    "meaning": "ice, stillness, the pause before moving"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
