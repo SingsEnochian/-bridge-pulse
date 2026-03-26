@@ -1,9 +1,9 @@
 {
-  "timestamp": "Thursday, March 26, 2026  18:50:54 EDT",
-  "iso": "2026-03-26T18:50:54.051531-04:00",
-  "unix": 1774565454,
+  "timestamp": "Thursday, March 26, 2026  19:17:27 EDT",
+  "iso": "2026-03-26T19:17:27.007290-04:00",
+  "unix": 1774567047,
   "date": "2026-03-26",
-  "time": "18:50:54",
+  "time": "19:17:27",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "First Quarter",
     "emoji": "🌓",
-    "age_days": 8.28
+    "age_days": 8.3
   },
   "rune": {
     "name": "Eihwaz",
