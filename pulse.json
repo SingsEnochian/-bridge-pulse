@@ -1,9 +1,9 @@
 {
-  "timestamp": "Friday, March 27, 2026  03:48:30 EDT",
-  "iso": "2026-03-27T03:48:30.344662-04:00",
-  "unix": 1774597710,
+  "timestamp": "Friday, March 27, 2026  04:34:51 EDT",
+  "iso": "2026-03-27T04:34:51.617084-04:00",
+  "unix": 1774600491,
   "date": "2026-03-27",
-  "time": "03:48:30",
+  "time": "04:34:51",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "First Quarter",
     "emoji": "🌓",
-    "age_days": 8.65
+    "age_days": 8.69
   },
   "rune": {
     "name": "Perthro",
