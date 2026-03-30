@@ -1,9 +1,9 @@
 {
-  "timestamp": "Monday, March 30, 2026  10:11:59 EDT",
-  "iso": "2026-03-30T10:11:59.305037-04:00",
-  "unix": 1774879919,
+  "timestamp": "Monday, March 30, 2026  11:40:55 EDT",
+  "iso": "2026-03-30T11:40:55.129142-04:00",
+  "unix": 1774885255,
   "date": "2026-03-30",
-  "time": "10:11:59",
+  "time": "11:40:55",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 11.92
+    "age_days": 11.98
   },
   "rune": {
     "name": "Tiwaz",
