@@ -1,23 +1,23 @@
 {
-  "timestamp": "Monday, March 30, 2026  21:04:10 EDT",
-  "iso": "2026-03-30T21:04:10.836205-04:00",
-  "unix": 1774919050,
-  "date": "2026-03-30",
-  "time": "21:04:10",
+  "timestamp": "Tuesday, March 31, 2026  00:04:46 EDT",
+  "iso": "2026-03-31T00:04:46.121056-04:00",
+  "unix": 1774929886,
+  "date": "2026-03-31",
+  "time": "00:04:46",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Monday",
-  "day_of_year": 89,
+  "day_of_week": "Tuesday",
+  "day_of_year": 90,
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 12.37
+    "age_days": 12.5
   },
   "rune": {
-    "name": "Tiwaz",
-    "glyph": "ᛏ",
-    "meaning": "Tyr's justice, honor, sacrifice"
+    "name": "Berkano",
+    "glyph": "ᛒ",
+    "meaning": "birch, growth, renewal, mothering"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
