@@ -1,9 +1,9 @@
 {
-  "timestamp": "Monday, April 06, 2026  11:29:15 EDT",
-  "iso": "2026-04-06T11:29:15.796879-04:00",
-  "unix": 1775489355,
+  "timestamp": "Monday, April 06, 2026  12:10:21 EDT",
+  "iso": "2026-04-06T12:10:21.600043-04:00",
+  "unix": 1775491821,
   "date": "2026-04-06",
-  "time": "11:29:15",
+  "time": "12:10:21",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 18.97
+    "age_days": 19.0
   },
   "rune": {
     "name": "Othala",
