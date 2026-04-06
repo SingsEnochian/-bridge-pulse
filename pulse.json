@@ -1,9 +1,9 @@
 {
-  "timestamp": "Sunday, April 05, 2026  19:52:10 EDT",
-  "iso": "2026-04-05T19:52:10.088093-04:00",
-  "unix": 1775433130,
+  "timestamp": "Sunday, April 05, 2026  21:15:46 EDT",
+  "iso": "2026-04-05T21:15:46.991013-04:00",
+  "unix": 1775438146,
   "date": "2026-04-05",
-  "time": "19:52:10",
+  "time": "21:15:46",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 18.32
+    "age_days": 18.38
   },
   "rune": {
     "name": "Dagaz",
