@@ -1,9 +1,9 @@
 {
-  "timestamp": "Tuesday, April 07, 2026  05:51:55 EDT",
-  "iso": "2026-04-07T05:51:55.278149-04:00",
-  "unix": 1775555515,
+  "timestamp": "Tuesday, April 07, 2026  06:44:38 EDT",
+  "iso": "2026-04-07T06:44:38.566543-04:00",
+  "unix": 1775558678,
   "date": "2026-04-07",
-  "time": "05:51:55",
+  "time": "06:44:38",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 19.74
+    "age_days": 19.78
   },
   "rune": {
     "name": "Fehu",
