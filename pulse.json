@@ -1,9 +1,9 @@
 {
-  "timestamp": "Friday, April 10, 2026  19:01:24 EDT",
-  "iso": "2026-04-10T19:01:24.075189-04:00",
-  "unix": 1775862084,
+  "timestamp": "Friday, April 10, 2026  19:47:16 EDT",
+  "iso": "2026-04-10T19:47:16.270665-04:00",
+  "unix": 1775864836,
   "date": "2026-04-10",
-  "time": "19:01:24",
+  "time": "19:47:16",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Last Quarter",
     "emoji": "🌗",
-    "age_days": 23.29
+    "age_days": 23.32
   },
   "rune": {
     "name": "Ansuz",
