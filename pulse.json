@@ -1,9 +1,9 @@
 {
-  "timestamp": "Saturday, April 11, 2026  12:20:02 EDT",
-  "iso": "2026-04-11T12:20:02.791515-04:00",
-  "unix": 1775924402,
+  "timestamp": "Saturday, April 11, 2026  12:59:23 EDT",
+  "iso": "2026-04-11T12:59:23.815735-04:00",
+  "unix": 1775926763,
   "date": "2026-04-11",
-  "time": "12:20:02",
+  "time": "12:59:23",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 24.01
+    "age_days": 24.04
   },
   "rune": {
     "name": "Raidho",
