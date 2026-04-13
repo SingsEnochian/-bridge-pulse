@@ -1,9 +1,9 @@
 {
-  "timestamp": "Monday, April 13, 2026  13:46:48 EDT",
-  "iso": "2026-04-13T13:46:48.256057-04:00",
-  "unix": 1776102408,
+  "timestamp": "Monday, April 13, 2026  14:54:02 EDT",
+  "iso": "2026-04-13T14:54:02.481170-04:00",
+  "unix": 1776106442,
   "date": "2026-04-13",
-  "time": "13:46:48",
+  "time": "14:54:02",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 26.07
+    "age_days": 26.12
   },
   "rune": {
     "name": "Gebo",
