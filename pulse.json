@@ -1,23 +1,23 @@
 {
-  "timestamp": "Wednesday, April 15, 2026  23:44:25 EDT",
-  "iso": "2026-04-15T23:44:25.668410-04:00",
-  "unix": 1776311065,
-  "date": "2026-04-15",
-  "time": "23:44:25",
+  "timestamp": "Thursday, April 16, 2026  01:51:57 EDT",
+  "iso": "2026-04-16T01:51:57.670385-04:00",
+  "unix": 1776318717,
+  "date": "2026-04-16",
+  "time": "01:51:57",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Wednesday",
-  "day_of_year": 105,
+  "day_of_week": "Thursday",
+  "day_of_year": 106,
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 28.48
+    "age_days": 28.57
   },
   "rune": {
-    "name": "Hagalaz",
-    "glyph": "ᚺ",
-    "meaning": "hail, disruption, necessary chaos"
+    "name": "Nauthiz",
+    "glyph": "ᚾ",
+    "meaning": "need, constraint, forging through"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
