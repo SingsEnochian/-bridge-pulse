@@ -1,9 +1,9 @@
 {
-  "timestamp": "Friday, April 17, 2026  15:15:58 EDT",
-  "iso": "2026-04-17T15:15:58.962586-04:00",
-  "unix": 1776453358,
+  "timestamp": "Friday, April 17, 2026  16:04:24 EDT",
+  "iso": "2026-04-17T16:04:24.615472-04:00",
+  "unix": 1776456264,
   "date": "2026-04-17",
-  "time": "15:15:58",
+  "time": "16:04:24",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "New Moon",
     "emoji": "🌑",
-    "age_days": 0.6
+    "age_days": 0.63
   },
   "rune": {
     "name": "Isa",
