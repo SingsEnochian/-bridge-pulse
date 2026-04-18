@@ -1,23 +1,23 @@
 {
-  "timestamp": "Friday, April 17, 2026  22:00:46 EDT",
-  "iso": "2026-04-17T22:00:46.540499-04:00",
-  "unix": 1776477646,
-  "date": "2026-04-17",
-  "time": "22:00:46",
+  "timestamp": "Saturday, April 18, 2026  00:39:01 EDT",
+  "iso": "2026-04-18T00:39:01.088151-04:00",
+  "unix": 1776487141,
+  "date": "2026-04-18",
+  "time": "00:39:01",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Friday",
-  "day_of_year": 107,
+  "day_of_week": "Saturday",
+  "day_of_year": 108,
   "moon": {
     "phase": "New Moon",
     "emoji": "🌑",
-    "age_days": 0.88
+    "age_days": 0.99
   },
   "rune": {
-    "name": "Isa",
-    "glyph": "ᛁ",
-    "meaning": "ice, stillness, the pause before moving"
+    "name": "Jera",
+    "glyph": "ᛃ",
+    "meaning": "the harvest, cycles, patient reward"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
