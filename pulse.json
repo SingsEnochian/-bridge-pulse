@@ -1,9 +1,9 @@
 {
-  "timestamp": "Saturday, April 18, 2026  00:39:01 EDT",
-  "iso": "2026-04-18T00:39:01.088151-04:00",
-  "unix": 1776487141,
+  "timestamp": "Saturday, April 18, 2026  02:01:45 EDT",
+  "iso": "2026-04-18T02:01:45.698620-04:00",
+  "unix": 1776492105,
   "date": "2026-04-18",
-  "time": "00:39:01",
+  "time": "02:01:45",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "New Moon",
     "emoji": "🌑",
-    "age_days": 0.99
+    "age_days": 1.05
   },
   "rune": {
     "name": "Jera",
