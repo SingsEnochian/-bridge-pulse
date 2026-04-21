@@ -1,9 +1,9 @@
 {
-  "timestamp": "Tuesday, April 21, 2026  04:11:11 EDT",
-  "iso": "2026-04-21T04:11:11.108141-04:00",
-  "unix": 1776759071,
+  "timestamp": "Tuesday, April 21, 2026  05:55:42 EDT",
+  "iso": "2026-04-21T05:55:42.902528-04:00",
+  "unix": 1776765342,
   "date": "2026-04-21",
-  "time": "04:11:11",
+  "time": "05:55:42",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 4.14
+    "age_days": 4.21
   },
   "rune": {
     "name": "Algiz",
