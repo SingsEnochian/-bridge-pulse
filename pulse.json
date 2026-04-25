@@ -1,23 +1,23 @@
 {
-  "timestamp": "Friday, April 24, 2026  23:28:44 EDT",
-  "iso": "2026-04-24T23:28:44.608377-04:00",
-  "unix": 1777087724,
-  "date": "2026-04-24",
-  "time": "23:28:44",
+  "timestamp": "Saturday, April 25, 2026  01:27:50 EDT",
+  "iso": "2026-04-25T01:27:50.768084-04:00",
+  "unix": 1777094870,
+  "date": "2026-04-25",
+  "time": "01:27:50",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Friday",
-  "day_of_year": 114,
+  "day_of_week": "Saturday",
+  "day_of_year": 115,
   "moon": {
     "phase": "First Quarter",
     "emoji": "🌓",
-    "age_days": 7.94
+    "age_days": 8.03
   },
   "rune": {
-    "name": "Berkano",
-    "glyph": "ᛒ",
-    "meaning": "birch, growth, renewal, mothering"
+    "name": "Ehwaz",
+    "glyph": "ᛖ",
+    "meaning": "the horse, movement, partnership"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
