@@ -1,23 +1,23 @@
 {
-  "timestamp": "Sunday, April 26, 2026  21:50:43 EDT",
-  "iso": "2026-04-26T21:50:43.312277-04:00",
-  "unix": 1777254643,
-  "date": "2026-04-26",
-  "time": "21:50:43",
+  "timestamp": "Monday, April 27, 2026  00:55:31 EDT",
+  "iso": "2026-04-27T00:55:31.239467-04:00",
+  "unix": 1777265731,
+  "date": "2026-04-27",
+  "time": "00:55:31",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Sunday",
-  "day_of_year": 116,
+  "day_of_week": "Monday",
+  "day_of_year": 117,
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 9.88
+    "age_days": 10.0
   },
   "rune": {
-    "name": "Mannaz",
-    "glyph": "ᛗ",
-    "meaning": "humanity, the self, community"
+    "name": "Laguz",
+    "glyph": "ᛚ",
+    "meaning": "water, flow, the unseen depths"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
