@@ -1,9 +1,9 @@
 {
-  "timestamp": "Tuesday, April 28, 2026  16:10:40 EDT",
-  "iso": "2026-04-28T16:10:40.063483-04:00",
-  "unix": 1777407040,
+  "timestamp": "Tuesday, April 28, 2026  17:19:05 EDT",
+  "iso": "2026-04-28T17:19:05.605288-04:00",
+  "unix": 1777411145,
   "date": "2026-04-28",
-  "time": "16:10:40",
+  "time": "17:19:05",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 11.64
+    "age_days": 11.69
   },
   "rune": {
     "name": "Ingwaz",
