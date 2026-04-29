@@ -1,23 +1,23 @@
 {
-  "timestamp": "Tuesday, April 28, 2026  20:07:50 EDT",
-  "iso": "2026-04-28T20:07:50.016162-04:00",
-  "unix": 1777421270,
-  "date": "2026-04-28",
-  "time": "20:07:50",
+  "timestamp": "Wednesday, April 29, 2026  00:00:36 EDT",
+  "iso": "2026-04-29T00:00:36.794471-04:00",
+  "unix": 1777435236,
+  "date": "2026-04-29",
+  "time": "00:00:36",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Tuesday",
-  "day_of_year": 118,
+  "day_of_week": "Wednesday",
+  "day_of_year": 119,
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 11.8
+    "age_days": 11.97
   },
   "rune": {
-    "name": "Ingwaz",
-    "glyph": "ᛜ",
-    "meaning": "Ing's seed, potential, inner work"
+    "name": "Dagaz",
+    "glyph": "ᛞ",
+    "meaning": "dawn, breakthrough, transformation"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
