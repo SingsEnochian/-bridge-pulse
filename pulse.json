@@ -1,9 +1,9 @@
 {
-  "timestamp": "Saturday, May 02, 2026  03:54:23 EDT",
-  "iso": "2026-05-02T03:54:23.911547-04:00",
-  "unix": 1777708463,
+  "timestamp": "Saturday, May 02, 2026  05:00:03 EDT",
+  "iso": "2026-05-02T05:00:03.706631-04:00",
+  "unix": 1777712403,
   "date": "2026-05-02",
-  "time": "03:54:23",
+  "time": "05:00:03",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Full Moon",
     "emoji": "🌕",
-    "age_days": 15.13
+    "age_days": 15.17
   },
   "rune": {
     "name": "Uruz",
