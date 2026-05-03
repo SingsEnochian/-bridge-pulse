@@ -1,23 +1,23 @@
 {
-  "timestamp": "Saturday, May 02, 2026  20:05:32 EDT",
-  "iso": "2026-05-02T20:05:32.359633-04:00",
-  "unix": 1777766732,
-  "date": "2026-05-02",
-  "time": "20:05:32",
+  "timestamp": "Sunday, May 03, 2026  00:07:10 EDT",
+  "iso": "2026-05-03T00:07:10.342146-04:00",
+  "unix": 1777781230,
+  "date": "2026-05-03",
+  "time": "00:07:10",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Saturday",
-  "day_of_year": 122,
+  "day_of_week": "Sunday",
+  "day_of_year": 123,
   "moon": {
     "phase": "Full Moon",
     "emoji": "🌕",
-    "age_days": 15.8
+    "age_days": 15.97
   },
   "rune": {
-    "name": "Uruz",
-    "glyph": "ᚢ",
-    "meaning": "strength, wild power, endurance"
+    "name": "Thurisaz",
+    "glyph": "ᚦ",
+    "meaning": "Thor's thorn, force, threshold"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
