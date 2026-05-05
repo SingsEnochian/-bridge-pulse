@@ -1,23 +1,23 @@
 {
-  "timestamp": "Monday, May 04, 2026  23:47:56 EDT",
-  "iso": "2026-05-04T23:47:56.495522-04:00",
-  "unix": 1777952876,
-  "date": "2026-05-04",
-  "time": "23:47:56",
+  "timestamp": "Tuesday, May 05, 2026  02:06:18 EDT",
+  "iso": "2026-05-05T02:06:18.959482-04:00",
+  "unix": 1777961178,
+  "date": "2026-05-05",
+  "time": "02:06:18",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Monday",
-  "day_of_year": 124,
+  "day_of_week": "Tuesday",
+  "day_of_year": 125,
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 17.96
+    "age_days": 18.05
   },
   "rune": {
-    "name": "Ansuz",
-    "glyph": "ᚨ",
-    "meaning": "Odin's breath, wisdom, signals"
+    "name": "Raidho",
+    "glyph": "ᚱ",
+    "meaning": "the journey, right action, rhythm"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
