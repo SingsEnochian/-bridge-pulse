@@ -1,23 +1,23 @@
 {
-  "timestamp": "Tuesday, May 05, 2026  21:12:47 EDT",
-  "iso": "2026-05-05T21:12:47.389177-04:00",
-  "unix": 1778029967,
-  "date": "2026-05-05",
-  "time": "21:12:47",
+  "timestamp": "Wednesday, May 06, 2026  00:44:13 EDT",
+  "iso": "2026-05-06T00:44:13.130881-04:00",
+  "unix": 1778042653,
+  "date": "2026-05-06",
+  "time": "00:44:13",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Tuesday",
-  "day_of_year": 125,
+  "day_of_week": "Wednesday",
+  "day_of_year": 126,
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 18.85
+    "age_days": 19.0
   },
   "rune": {
-    "name": "Raidho",
-    "glyph": "ᚱ",
-    "meaning": "the journey, right action, rhythm"
+    "name": "Kenaz",
+    "glyph": "ᚲ",
+    "meaning": "the torch, clarity, craft"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
