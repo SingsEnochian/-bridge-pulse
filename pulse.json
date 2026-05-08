@@ -1,9 +1,9 @@
 {
-  "timestamp": "Friday, May 08, 2026  13:08:43 EDT",
-  "iso": "2026-05-08T13:08:43.005759-04:00",
-  "unix": 1778260123,
+  "timestamp": "Friday, May 08, 2026  14:43:50 EDT",
+  "iso": "2026-05-08T14:43:50.434547-04:00",
+  "unix": 1778265830,
   "date": "2026-05-08",
-  "time": "13:08:43",
+  "time": "14:43:50",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 21.51
+    "age_days": 21.58
   },
   "rune": {
     "name": "Wunjo",
