@@ -1,18 +1,18 @@
 {
-  "timestamp": "Monday, May 11, 2026  00:19:52 EDT",
-  "iso": "2026-05-11T00:19:52.029068-04:00",
-  "unix": 1778473192,
+  "timestamp": "Monday, May 11, 2026  03:56:57 EDT",
+  "iso": "2026-05-11T03:56:57.719966-04:00",
+  "unix": 1778486217,
   "date": "2026-05-11",
-  "time": "00:19:52",
+  "time": "03:56:57",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
   "day_of_week": "Monday",
   "day_of_year": 131,
   "moon": {
-    "phase": "Last Quarter",
-    "emoji": "🌗",
-    "age_days": 23.98
+    "phase": "Waning Crescent",
+    "emoji": "🌘",
+    "age_days": 24.13
   },
   "rune": {
     "name": "Isa",
