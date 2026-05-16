@@ -1,9 +1,9 @@
 {
-  "timestamp": "Saturday, May 16, 2026  03:05:49 EDT",
-  "iso": "2026-05-16T03:05:49.613168-04:00",
-  "unix": 1778915149,
+  "timestamp": "Saturday, May 16, 2026  04:57:25 EDT",
+  "iso": "2026-05-16T04:57:25.226738-04:00",
+  "unix": 1778921845,
   "date": "2026-05-16",
-  "time": "03:05:49",
+  "time": "04:57:25",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 29.09
+    "age_days": 29.17
   },
   "rune": {
     "name": "Sowilo",
