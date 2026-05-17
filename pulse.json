@@ -1,23 +1,23 @@
 {
-  "timestamp": "Saturday, May 16, 2026  21:42:52 EDT",
-  "iso": "2026-05-16T21:42:52.179416-04:00",
-  "unix": 1778982172,
-  "date": "2026-05-16",
-  "time": "21:42:52",
+  "timestamp": "Sunday, May 17, 2026  01:34:45 EDT",
+  "iso": "2026-05-17T01:34:45.880014-04:00",
+  "unix": 1778996085,
+  "date": "2026-05-17",
+  "time": "01:34:45",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Saturday",
-  "day_of_year": 136,
+  "day_of_week": "Sunday",
+  "day_of_year": 137,
   "moon": {
     "phase": "New Moon",
     "emoji": "🌑",
-    "age_days": 0.34
+    "age_days": 0.5
   },
   "rune": {
-    "name": "Sowilo",
-    "glyph": "ᛊ",
-    "meaning": "the sun, victory, will aligned with wyrd"
+    "name": "Tiwaz",
+    "glyph": "ᛏ",
+    "meaning": "Tyr's justice, honor, sacrifice"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
