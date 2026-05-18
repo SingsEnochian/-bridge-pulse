@@ -1,9 +1,9 @@
 {
-  "timestamp": "Sunday, May 17, 2026  19:32:25 EDT",
-  "iso": "2026-05-17T19:32:25.895749-04:00",
-  "unix": 1779060745,
+  "timestamp": "Sunday, May 17, 2026  21:31:10 EDT",
+  "iso": "2026-05-17T21:31:10.349044-04:00",
+  "unix": 1779067870,
   "date": "2026-05-17",
-  "time": "19:32:25",
+  "time": "21:31:10",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "New Moon",
     "emoji": "🌑",
-    "age_days": 1.25
+    "age_days": 1.33
   },
   "rune": {
     "name": "Tiwaz",
