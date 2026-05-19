@@ -1,9 +1,9 @@
 {
-  "timestamp": "Tuesday, May 19, 2026  01:46:35 EDT",
-  "iso": "2026-05-19T01:46:35.204751-04:00",
-  "unix": 1779169595,
+  "timestamp": "Tuesday, May 19, 2026  04:49:17 EDT",
+  "iso": "2026-05-19T04:49:17.385806-04:00",
+  "unix": 1779180557,
   "date": "2026-05-19",
-  "time": "01:46:35",
+  "time": "04:49:17",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 2.51
+    "age_days": 2.64
   },
   "rune": {
     "name": "Ehwaz",
