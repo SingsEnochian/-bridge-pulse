@@ -1,23 +1,23 @@
 {
-  "timestamp": "Sunday, May 24, 2026  21:53:07 EDT",
-  "iso": "2026-05-24T21:53:07.017393-04:00",
-  "unix": 1779673987,
-  "date": "2026-05-24",
-  "time": "21:53:07",
+  "timestamp": "Monday, May 25, 2026  02:17:50 EDT",
+  "iso": "2026-05-25T02:17:50.281369-04:00",
+  "unix": 1779689870,
+  "date": "2026-05-25",
+  "time": "02:17:50",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Sunday",
-  "day_of_year": 144,
+  "day_of_week": "Monday",
+  "day_of_year": 145,
   "moon": {
     "phase": "First Quarter",
     "emoji": "🌓",
-    "age_days": 8.35
+    "age_days": 8.53
   },
   "rune": {
-    "name": "Othala",
-    "glyph": "ᛟ",
-    "meaning": "the homestead, ancestry, what is ours"
+    "name": "Fehu",
+    "glyph": "ᚠ",
+    "meaning": "wealth, abundance, beginnings"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
