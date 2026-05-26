@@ -1,23 +1,23 @@
 {
-  "timestamp": "Monday, May 25, 2026  21:22:58 EDT",
-  "iso": "2026-05-25T21:22:58.453679-04:00",
-  "unix": 1779758578,
-  "date": "2026-05-25",
-  "time": "21:22:58",
+  "timestamp": "Tuesday, May 26, 2026  01:32:47 EDT",
+  "iso": "2026-05-26T01:32:47.571117-04:00",
+  "unix": 1779773567,
+  "date": "2026-05-26",
+  "time": "01:32:47",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Monday",
-  "day_of_year": 145,
+  "day_of_week": "Tuesday",
+  "day_of_year": 146,
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 9.33
+    "age_days": 9.5
   },
   "rune": {
-    "name": "Fehu",
-    "glyph": "ᚠ",
-    "meaning": "wealth, abundance, beginnings"
+    "name": "Uruz",
+    "glyph": "ᚢ",
+    "meaning": "strength, wild power, endurance"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
