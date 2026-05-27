@@ -1,9 +1,9 @@
 {
-  "timestamp": "Wednesday, May 27, 2026  18:54:47 EDT",
-  "iso": "2026-05-27T18:54:47.491310-04:00",
-  "unix": 1779922487,
+  "timestamp": "Wednesday, May 27, 2026  19:56:59 EDT",
+  "iso": "2026-05-27T19:56:59.641065-04:00",
+  "unix": 1779926219,
   "date": "2026-05-27",
-  "time": "18:54:47",
+  "time": "19:56:59",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 11.22
+    "age_days": 11.27
   },
   "rune": {
     "name": "Thurisaz",
