@@ -1,9 +1,9 @@
 {
-  "timestamp": "Monday, June 01, 2026  16:42:36 EDT",
-  "iso": "2026-06-01T16:42:36.801635-04:00",
-  "unix": 1780346556,
+  "timestamp": "Monday, June 01, 2026  18:50:49 EDT",
+  "iso": "2026-06-01T18:50:49.115261-04:00",
+  "unix": 1780354249,
   "date": "2026-06-01",
-  "time": "16:42:36",
+  "time": "18:50:49",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Full Moon",
     "emoji": "🌕",
-    "age_days": 16.13
+    "age_days": 16.22
   },
   "rune": {
     "name": "Wunjo",
