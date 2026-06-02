@@ -1,18 +1,18 @@
 {
-  "timestamp": "Tuesday, June 02, 2026  00:55:14 EDT",
-  "iso": "2026-06-02T00:55:14.387129-04:00",
-  "unix": 1780376114,
+  "timestamp": "Tuesday, June 02, 2026  05:03:40 EDT",
+  "iso": "2026-06-02T05:03:40.919468-04:00",
+  "unix": 1780391020,
   "date": "2026-06-02",
-  "time": "00:55:14",
+  "time": "05:03:40",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
   "day_of_week": "Tuesday",
   "day_of_year": 153,
   "moon": {
-    "phase": "Full Moon",
-    "emoji": "🌕",
-    "age_days": 16.47
+    "phase": "Waning Gibbous",
+    "emoji": "🌖",
+    "age_days": 16.65
   },
   "rune": {
     "name": "Hagalaz",
