@@ -1,23 +1,23 @@
 {
-  "timestamp": "Saturday, June 06, 2026  21:52:40 EDT",
-  "iso": "2026-06-06T21:52:40.021680-04:00",
-  "unix": 1780797160,
-  "date": "2026-06-06",
-  "time": "21:52:40",
+  "timestamp": "Sunday, June 07, 2026  02:12:56 EDT",
+  "iso": "2026-06-07T02:12:56.372114-04:00",
+  "unix": 1780812776,
+  "date": "2026-06-07",
+  "time": "02:12:56",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Saturday",
-  "day_of_year": 157,
+  "day_of_week": "Sunday",
+  "day_of_year": 158,
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 21.35
+    "age_days": 21.53
   },
   "rune": {
-    "name": "Eihwaz",
-    "glyph": "ᛇ",
-    "meaning": "the yew tree, Yggdrasil, deep roots"
+    "name": "Perthro",
+    "glyph": "ᛈ",
+    "meaning": "fate's cup, mystery, what is hidden"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
