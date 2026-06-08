@@ -1,23 +1,23 @@
 {
-  "timestamp": "Sunday, June 07, 2026  22:02:33 EDT",
-  "iso": "2026-06-07T22:02:33.239291-04:00",
-  "unix": 1780884153,
-  "date": "2026-06-07",
-  "time": "22:02:33",
+  "timestamp": "Monday, June 08, 2026  02:56:27 EDT",
+  "iso": "2026-06-08T02:56:27.867068-04:00",
+  "unix": 1780901787,
+  "date": "2026-06-08",
+  "time": "02:56:27",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Sunday",
-  "day_of_year": 158,
+  "day_of_week": "Monday",
+  "day_of_year": 159,
   "moon": {
     "phase": "Last Quarter",
     "emoji": "🌗",
-    "age_days": 22.35
+    "age_days": 22.56
   },
   "rune": {
-    "name": "Perthro",
-    "glyph": "ᛈ",
-    "meaning": "fate's cup, mystery, what is hidden"
+    "name": "Algiz",
+    "glyph": "ᛉ",
+    "meaning": "the elk, protection, sacred boundary"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
