@@ -1,9 +1,9 @@
 {
-  "timestamp": "Saturday, June 13, 2026  16:51:26 EDT",
-  "iso": "2026-06-13T16:51:26.397863-04:00",
-  "unix": 1781383886,
+  "timestamp": "Saturday, June 13, 2026  17:54:01 EDT",
+  "iso": "2026-06-13T17:54:01.985150-04:00",
+  "unix": 1781387641,
   "date": "2026-06-13",
-  "time": "16:51:26",
+  "time": "17:54:01",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 28.14
+    "age_days": 28.18
   },
   "rune": {
     "name": "Mannaz",
