@@ -1,23 +1,23 @@
 {
-  "timestamp": "Friday, June 12, 2026  21:55:13 EDT",
-  "iso": "2026-06-12T21:55:13.731634-04:00",
-  "unix": 1781315713,
-  "date": "2026-06-12",
-  "time": "21:55:13",
+  "timestamp": "Saturday, June 13, 2026  02:13:28 EDT",
+  "iso": "2026-06-13T02:13:28.143623-04:00",
+  "unix": 1781331208,
+  "date": "2026-06-13",
+  "time": "02:13:28",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Friday",
-  "day_of_year": 163,
+  "day_of_week": "Saturday",
+  "day_of_year": 164,
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 27.35
+    "age_days": 27.53
   },
   "rune": {
-    "name": "Ehwaz",
-    "glyph": "ᛖ",
-    "meaning": "the horse, movement, partnership"
+    "name": "Mannaz",
+    "glyph": "ᛗ",
+    "meaning": "humanity, the self, community"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
