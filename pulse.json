@@ -1,9 +1,9 @@
 {
-  "timestamp": "Tuesday, June 16, 2026  18:26:42 EDT",
-  "iso": "2026-06-16T18:26:42.208153-04:00",
-  "unix": 1781648802,
+  "timestamp": "Tuesday, June 16, 2026  19:55:16 EDT",
+  "iso": "2026-06-16T19:55:16.307347-04:00",
+  "unix": 1781654116,
   "date": "2026-06-16",
-  "time": "18:26:42",
+  "time": "19:55:16",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "New Moon",
     "emoji": "🌑",
-    "age_days": 1.67
+    "age_days": 1.73
   },
   "rune": {
     "name": "Dagaz",
