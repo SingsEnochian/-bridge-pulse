@@ -1,9 +1,9 @@
 {
-  "timestamp": "Saturday, June 20, 2026  18:13:44 EDT",
-  "iso": "2026-06-20T18:13:44.775344-04:00",
-  "unix": 1781993624,
+  "timestamp": "Saturday, June 20, 2026  19:36:58 EDT",
+  "iso": "2026-06-20T19:36:58.624695-04:00",
+  "unix": 1781998618,
   "date": "2026-06-20",
-  "time": "18:13:44",
+  "time": "19:36:58",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 5.66
+    "age_days": 5.72
   },
   "rune": {
     "name": "Thurisaz",
