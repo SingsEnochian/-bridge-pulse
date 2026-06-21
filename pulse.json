@@ -1,9 +1,9 @@
 {
-  "timestamp": "Sunday, June 21, 2026  08:27:49 EDT",
-  "iso": "2026-06-21T08:27:49.304026-04:00",
-  "unix": 1782044869,
+  "timestamp": "Sunday, June 21, 2026  10:54:34 EDT",
+  "iso": "2026-06-21T10:54:34.906377-04:00",
+  "unix": 1782053674,
   "date": "2026-06-21",
-  "time": "08:27:49",
+  "time": "10:54:34",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 6.26
+    "age_days": 6.36
   },
   "rune": {
     "name": "Ansuz",
