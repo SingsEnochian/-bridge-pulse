@@ -1,23 +1,23 @@
 {
-  "timestamp": "Saturday, June 20, 2026  22:02:21 EDT",
-  "iso": "2026-06-20T22:02:21.136771-04:00",
-  "unix": 1782007341,
-  "date": "2026-06-20",
-  "time": "22:02:21",
+  "timestamp": "Sunday, June 21, 2026  03:00:07 EDT",
+  "iso": "2026-06-21T03:00:07.041136-04:00",
+  "unix": 1782025207,
+  "date": "2026-06-21",
+  "time": "03:00:07",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Saturday",
-  "day_of_year": 171,
+  "day_of_week": "Sunday",
+  "day_of_year": 172,
   "moon": {
     "phase": "Waxing Crescent",
     "emoji": "🌒",
-    "age_days": 5.82
+    "age_days": 6.03
   },
   "rune": {
-    "name": "Thurisaz",
-    "glyph": "ᚦ",
-    "meaning": "Thor's thorn, force, threshold"
+    "name": "Ansuz",
+    "glyph": "ᚨ",
+    "meaning": "Odin's breath, wisdom, signals"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
