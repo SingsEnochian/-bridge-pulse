@@ -1,9 +1,9 @@
 {
-  "timestamp": "Monday, June 22, 2026  19:02:00 EDT",
-  "iso": "2026-06-22T19:02:00.927856-04:00",
-  "unix": 1782169320,
+  "timestamp": "Monday, June 22, 2026  20:16:38 EDT",
+  "iso": "2026-06-22T20:16:38.891983-04:00",
+  "unix": 1782173798,
   "date": "2026-06-22",
-  "time": "19:02:00",
+  "time": "20:16:38",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "First Quarter",
     "emoji": "🌓",
-    "age_days": 7.7
+    "age_days": 7.75
   },
   "rune": {
     "name": "Raidho",
