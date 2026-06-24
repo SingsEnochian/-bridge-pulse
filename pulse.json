@@ -1,23 +1,23 @@
 {
-  "timestamp": "Tuesday, June 23, 2026  20:09:51 EDT",
-  "iso": "2026-06-23T20:09:51.476685-04:00",
-  "unix": 1782259791,
-  "date": "2026-06-23",
-  "time": "20:09:51",
+  "timestamp": "Wednesday, June 24, 2026  00:34:03 EDT",
+  "iso": "2026-06-24T00:34:03.134669-04:00",
+  "unix": 1782275643,
+  "date": "2026-06-24",
+  "time": "00:34:03",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Tuesday",
-  "day_of_year": 174,
+  "day_of_week": "Wednesday",
+  "day_of_year": 175,
   "moon": {
     "phase": "First Quarter",
     "emoji": "🌓",
-    "age_days": 8.74
+    "age_days": 8.93
   },
   "rune": {
-    "name": "Kenaz",
-    "glyph": "ᚲ",
-    "meaning": "the torch, clarity, craft"
+    "name": "Gebo",
+    "glyph": "ᚷ",
+    "meaning": "gift, exchange, sacred reciprocity"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
