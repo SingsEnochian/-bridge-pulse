@@ -1,23 +1,23 @@
 {
-  "timestamp": "Wednesday, June 24, 2026  21:35:55 EDT",
-  "iso": "2026-06-24T21:35:55.608076-04:00",
-  "unix": 1782351355,
-  "date": "2026-06-24",
-  "time": "21:35:55",
+  "timestamp": "Thursday, June 25, 2026  01:49:08 EDT",
+  "iso": "2026-06-25T01:49:08.937697-04:00",
+  "unix": 1782366548,
+  "date": "2026-06-25",
+  "time": "01:49:08",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Wednesday",
-  "day_of_year": 175,
+  "day_of_week": "Thursday",
+  "day_of_year": 176,
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 9.8
+    "age_days": 9.98
   },
   "rune": {
-    "name": "Gebo",
-    "glyph": "ᚷ",
-    "meaning": "gift, exchange, sacred reciprocity"
+    "name": "Wunjo",
+    "glyph": "ᚹ",
+    "meaning": "joy, harmony, the wish fulfilled"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
