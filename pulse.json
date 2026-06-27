@@ -1,9 +1,9 @@
 {
-  "timestamp": "Saturday, June 27, 2026  14:36:59 EDT",
-  "iso": "2026-06-27T14:36:59.551492-04:00",
-  "unix": 1782585419,
+  "timestamp": "Saturday, June 27, 2026  15:55:22 EDT",
+  "iso": "2026-06-27T15:55:22.125321-04:00",
+  "unix": 1782590122,
   "date": "2026-06-27",
-  "time": "14:36:59",
+  "time": "15:55:22",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 12.51
+    "age_days": 12.57
   },
   "rune": {
     "name": "Nauthiz",
