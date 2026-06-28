@@ -1,9 +1,9 @@
 {
-  "timestamp": "Sunday, June 28, 2026  10:12:14 EDT",
-  "iso": "2026-06-28T10:12:14.843470-04:00",
-  "unix": 1782655934,
+  "timestamp": "Sunday, June 28, 2026  11:40:08 EDT",
+  "iso": "2026-06-28T11:40:08.247793-04:00",
+  "unix": 1782661208,
   "date": "2026-06-28",
-  "time": "10:12:14",
+  "time": "11:40:08",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 13.33
+    "age_days": 13.39
   },
   "rune": {
     "name": "Isa",
