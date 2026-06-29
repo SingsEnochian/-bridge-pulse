@@ -1,9 +1,9 @@
 {
-  "timestamp": "Monday, June 29, 2026  13:55:16 EDT",
-  "iso": "2026-06-29T13:55:16.809992-04:00",
-  "unix": 1782755716,
+  "timestamp": "Monday, June 29, 2026  15:51:59 EDT",
+  "iso": "2026-06-29T15:51:59.074320-04:00",
+  "unix": 1782762719,
   "date": "2026-06-29",
-  "time": "13:55:16",
+  "time": "15:51:59",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waxing Gibbous",
     "emoji": "🌔",
-    "age_days": 14.48
+    "age_days": 14.57
   },
   "rune": {
     "name": "Jera",
