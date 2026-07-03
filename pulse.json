@@ -1,23 +1,23 @@
 {
-  "timestamp": "Thursday, July 02, 2026  20:10:44 EDT",
-  "iso": "2026-07-02T20:10:44.858819-04:00",
-  "unix": 1783037444,
-  "date": "2026-07-02",
-  "time": "20:10:44",
+  "timestamp": "Friday, July 03, 2026  00:07:14 EDT",
+  "iso": "2026-07-03T00:07:14.543439-04:00",
+  "unix": 1783051634,
+  "date": "2026-07-03",
+  "time": "00:07:14",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Thursday",
-  "day_of_year": 183,
+  "day_of_week": "Friday",
+  "day_of_year": 184,
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 17.74
+    "age_days": 17.91
   },
   "rune": {
-    "name": "Algiz",
-    "glyph": "ᛉ",
-    "meaning": "the elk, protection, sacred boundary"
+    "name": "Sowilo",
+    "glyph": "ᛊ",
+    "meaning": "the sun, victory, will aligned with wyrd"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
