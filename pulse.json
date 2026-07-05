@@ -1,9 +1,9 @@
 {
-  "timestamp": "Sunday, July 05, 2026  17:06:29 EDT",
-  "iso": "2026-07-05T17:06:29.366376-04:00",
-  "unix": 1783285589,
+  "timestamp": "Sunday, July 05, 2026  18:10:41 EDT",
+  "iso": "2026-07-05T18:10:41.729239-04:00",
+  "unix": 1783289441,
   "date": "2026-07-05",
-  "time": "17:06:29",
+  "time": "18:10:41",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Gibbous",
     "emoji": "🌖",
-    "age_days": 20.62
+    "age_days": 20.66
   },
   "rune": {
     "name": "Berkano",
