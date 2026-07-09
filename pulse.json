@@ -1,9 +1,9 @@
 {
-  "timestamp": "Wednesday, July 08, 2026  19:31:10 EDT",
-  "iso": "2026-07-08T19:31:10.664353-04:00",
-  "unix": 1783553470,
+  "timestamp": "Wednesday, July 08, 2026  21:11:16 EDT",
+  "iso": "2026-07-08T21:11:16.496455-04:00",
+  "unix": 1783559476,
   "date": "2026-07-08",
-  "time": "19:31:10",
+  "time": "21:11:16",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Last Quarter",
     "emoji": "🌗",
-    "age_days": 23.72
+    "age_days": 23.79
   },
   "rune": {
     "name": "Laguz",
