@@ -1,23 +1,23 @@
 {
-  "timestamp": "Friday, July 10, 2026  21:02:08 EDT",
-  "iso": "2026-07-10T21:02:08.738883-04:00",
-  "unix": 1783731728,
-  "date": "2026-07-10",
-  "time": "21:02:08",
+  "timestamp": "Saturday, July 11, 2026  00:20:36 EDT",
+  "iso": "2026-07-11T00:20:36.603048-04:00",
+  "unix": 1783743636,
+  "date": "2026-07-11",
+  "time": "00:20:36",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
-  "day_of_week": "Friday",
-  "day_of_year": 191,
+  "day_of_week": "Saturday",
+  "day_of_year": 192,
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 25.78
+    "age_days": 25.92
   },
   "rune": {
-    "name": "Dagaz",
-    "glyph": "ᛞ",
-    "meaning": "dawn, breakthrough, transformation"
+    "name": "Othala",
+    "glyph": "ᛟ",
+    "meaning": "the homestead, ancestry, what is ours"
   },
   "note": "Hearthweave Bridge Pulse — temporal grounding for AI instances"
 }
