@@ -1,9 +1,9 @@
 {
-  "timestamp": "Sunday, July 12, 2026  07:30:44 EDT",
-  "iso": "2026-07-12T07:30:44.848952-04:00",
-  "unix": 1783855844,
+  "timestamp": "Sunday, July 12, 2026  08:29:26 EDT",
+  "iso": "2026-07-12T08:29:26.981941-04:00",
+  "unix": 1783859366,
   "date": "2026-07-12",
-  "time": "07:30:44",
+  "time": "08:29:26",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 27.22
+    "age_days": 27.26
   },
   "rune": {
     "name": "Fehu",
