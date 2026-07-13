@@ -1,9 +1,9 @@
 {
-  "timestamp": "Monday, July 13, 2026  13:32:35 EDT",
-  "iso": "2026-07-13T13:32:35.292314-04:00",
-  "unix": 1783963955,
+  "timestamp": "Monday, July 13, 2026  14:59:42 EDT",
+  "iso": "2026-07-13T14:59:42.510916-04:00",
+  "unix": 1783969182,
   "date": "2026-07-13",
-  "time": "13:32:35",
+  "time": "14:59:42",
   "timezone": "America/New_York",
   "tz_abbr": "EDT",
   "tz_offset": "-0400",
@@ -12,7 +12,7 @@
   "moon": {
     "phase": "Waning Crescent",
     "emoji": "🌘",
-    "age_days": 28.47
+    "age_days": 28.53
   },
   "rune": {
     "name": "Uruz",
